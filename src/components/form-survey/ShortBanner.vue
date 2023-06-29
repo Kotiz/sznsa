@@ -1,0 +1,34 @@
+<template>
+  <div class="fancy-short-banner-fifteen pt-150 md-pt-80">
+    <div class="container">
+      <div class="row">
+        <div
+          class="col-xl-8 col-lg-11 m-auto"
+          data-aos="fade-up"
+          data-aos-duration="1200"
+        >
+          <div class="title-style-seven text-center">
+            <h2>200k+ Satisfied Client Try it now!</h2>
+            <p>Try it risk free — we don’t charge cancellation fees.</p>
+          </div>
+          <!-- /.title-style-six -->
+        </div>
+      </div>
+      <div
+        class="text-center mt-50"
+        data-aos="fade-up"
+        data-aos-duration="1200"
+        data-aos-delay="150"
+      >
+        <a href="#" class="theme-btn-fourteen">Create my survay</a>
+      </div>
+    </div>
+    <!-- /.container -->
+  </div>
+</template>
+
+<script>
+export default {
+  name: "ShortBanner",
+};
+</script>
